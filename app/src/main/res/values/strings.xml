@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FrasesCoach</string>
+
+
+    <string-array name="frases">
+        <item name="frase1">Quanto mais treino mais sorte tenho</item>
+        <item name="frase2">Controle o seu destino ou alguém controlará</item>
+        <item name="frase3">O corpo alcança o que a mente acredita</item>
+        <item name="frase4">Oportunidades não surgem. É você quem as cria</item>
+        <item name="frase5">Sucesso nada mais é que disciplina. Pratique todos os dias</item>
+        <item name="frase6">Tudo vai dar certo</item>
+        <item name="frase7">Não desista no seu primeiro fracasso</item>
+    </string-array>
+</resources>
